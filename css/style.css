@@ -2,7 +2,39 @@
 wood brown: A89F68;
 army green: 41521F;
 */
+*{
+	font-family: 'Lato',sans-serif;
+}
 
 .navbar{
 	background-color: transparent;
+	border:transparent;
+	font-weight: bold;
+
+}
+.navbar-default .navbar-nav>li>a {
+    color: #fff;
+}
+
+.icon-bar{
+	color: white;
+
+}
+.primersection{
+	background-image: url(../img/portada.jpg);
+	height: 100vh;
+	background-size: cover;
+	background-repeat: no-repeat;
+
+}
+.save{
+	margin-top:350px;
+	margin-left: 75px;
+	color: white;
+	font-weight: bold;
+	color: white;
+}
+.dos{
+	font-size: 25px;
+	
 }
