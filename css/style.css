@@ -52,7 +52,7 @@ army green: 41521F;
 
 .textos{
 	margin-top: 20%;
-	margin-bottom:20%;
+	margin-bottom:10%;
 	font-size: 12px;
 	color: #220073;
 }
@@ -67,7 +67,6 @@ army green: 41521F;
 }
 #ph{
 	margin-top: 50px;
-	margin-bottom: 50px;
 }
 
 /* tercera seccion */
@@ -83,14 +82,15 @@ army green: 41521F;
 }
 
 #cosita{
-	width: 80%;
-	margin-bottom: 100px;
+	width: 100%;
 	border: 5px solid white;
-	margin-right: 100px;
+	margin-top: 5%;
+	margin-bottom:10%;
 }
 
 .textotres{
-	margin-top: 100px;
-	margin-left: 150px;
-	margin-bottom: 100px;
+	margin-top: 5%;
+	margin-left:10%;
+	margin-right: 10%;
+	margin-bottom: 10%;
 }
