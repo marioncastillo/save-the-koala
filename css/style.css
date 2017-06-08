@@ -94,3 +94,22 @@ army green: 41521F;
 	margin-right: 10%;
 	margin-bottom: 10%;
 }
+
+.cuatro{
+	background-image: url(../img/all.jpg);
+	height: 100vh;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+
+}
+
+.help{
+	color: white;
+	font-weight: bold;
+
+}
+
+.helpi{
+	margin-top: 20%;
+}
