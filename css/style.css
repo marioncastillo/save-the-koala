@@ -43,3 +43,24 @@ army green: 41521F;
 	color: white;
 	border:transparent;
 }
+
+.container{
+	margin-right: 100px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+.textos{
+	margin-top: 150px;
+	font-size: 15px;
+	color: #41521F;
+}
+
+h3{
+	color: #A89F68;
+	font-weight: bold;
+}
+h4{
+	color: #A89F68;
+	font-weight: bold;
+}
