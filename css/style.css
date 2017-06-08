@@ -6,6 +6,8 @@ army green: 41521F;
 	font-family: 'Lato',sans-serif;
 }
 
+/* primera seccion */
+
 .navbar{
 	background-color: transparent;
 	border:transparent;
@@ -25,6 +27,7 @@ army green: 41521F;
 	height: 100vh;
 	background-size: cover;
 	background-repeat: no-repeat;
+	background-position: center;
 
 }
 .save{
@@ -32,7 +35,7 @@ army green: 41521F;
 	margin-left: 75px;
 	color: white;
 	font-weight: bold;
-	color: white;
+	
 }
 .dos{
 	font-size: 25px;
@@ -44,23 +47,50 @@ army green: 41521F;
 	border:transparent;
 }
 
-.container{
-	margin-right: 100px;
+/* segunda seccion */
+
+
+.textos{
+	margin-top: 20%;
+	margin-bottom:20%;
+	font-size: 12px;
+	color: #220073;
+}
+
+.titulofundacion{
+	color: #A89F68;
+	font-weight: bold;
+}
+.titulocuatro{
+	color: #A89F68;
+	font-weight: bold;
+}
+#ph{
 	margin-top: 50px;
 	margin-bottom: 50px;
 }
 
-.textos{
-	margin-top: 150px;
-	font-size: 15px;
-	color: #41521F;
+/* tercera seccion */
+.contenedor{
+	background-color:#A89F68;
+	color: white;
+
 }
 
-h3{
-	color: #A89F68;
+.titulotres{
+	color: #41521F;
 	font-weight: bold;
 }
-h4{
-	color: #A89F68;
-	font-weight: bold;
+
+#cosita{
+	width: 80%;
+	margin-bottom: 100px;
+	border: 5px solid white;
+	margin-right: 100px;
+}
+
+.textotres{
+	margin-top: 100px;
+	margin-left: 150px;
+	margin-bottom: 100px;
 }
