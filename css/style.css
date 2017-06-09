@@ -134,3 +134,50 @@ army green: 41521F;
 	color: #A89F68;
 	font-weight: bold;
 }
+
+/*seccion seis*/
+
+.seis{
+	background-color: #A89F68;
+
+}
+
+.tituloseis{
+	color: #41521F;
+	font-weight: bold;	
+	margin-top: 50px;
+
+}
+.textseis{
+	color: #41521F;
+	padding: 30px;
+	
+}
+
+.num{
+	color: white;
+	font-size: 70px;
+}
+
+.linea{
+	border-bottom: 1px solid white;
+	margin: 10%;
+}
+
+#donate{
+	margin-bottom: 10%;
+}
+
+.fa{
+	color: white;
+	position: absolute;
+	margin-left: -50px;
+	margin-top: 20px;
+}
+
+.aud{
+	color: white;
+	position: absolute;
+	margin-left:235px;
+	margin-top: -35px;
+}
