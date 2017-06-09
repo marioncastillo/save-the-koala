@@ -39,7 +39,12 @@ army green: 41521F;
 }
 .dos{
 	font-size: 25px;
+	font-weight: bold;
 	
+}
+
+.parrafouno{
+	color: white;
 }
 .btn{
 	background-color: #41521F;
@@ -150,7 +155,7 @@ army green: 41521F;
 }
 .textseis{
 	color: #41521F;
-	padding: 30px;
+	padding: 30	px;
 	
 }
 
@@ -168,7 +173,7 @@ army green: 41521F;
 	margin-bottom: 10%;
 }
 
-.fa{
+#dolar{
 	color: white;
 	position: absolute;
 	margin-left: -50px;
@@ -178,6 +183,28 @@ army green: 41521F;
 .aud{
 	color: white;
 	position: absolute;
-	margin-left:235px;
+	margin-left: 55%;
 	margin-top: -35px;
+
+}
+
+/* footer*/
+.pie{
+	background-color: #41521F;
+	padding:50px;
+	color: #A89F68;
+}
+
+.verde{
+	color: #A89F68;
+	
+	
+}
+
+.blanco{
+	color: white;
+}
+
+#mouse{
+cursor: pointer;
 }
