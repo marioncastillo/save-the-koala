@@ -53,8 +53,8 @@ army green: 41521F;
 .textos{
 	margin-top: 20%;
 	margin-bottom:10%;
-	font-size: 12px;
-	color: #220073;
+	font-size: 15px;
+	color: #082A61;
 }
 
 .titulofundacion{
@@ -113,4 +113,24 @@ army green: 41521F;
 
 .helpi{
 	margin-top: 20%;
+}
+/*seccion cinco*/
+.cinco{
+	margin:5%;
+}
+
+.textcinco{
+	margin-top: 2%;
+	color: #082A61;
+}
+
+#icono{
+	color: #A89F68;
+	font-size: 60px;
+	margin-bottom: 10%;
+}
+
+.titulocinco{
+	color: #A89F68;
+	font-weight: bold;
 }
