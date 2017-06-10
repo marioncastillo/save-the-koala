@@ -75,7 +75,7 @@ army green: 41521F;
 }
 
 /* tercera seccion */
-.contenedor{
+.tres{
 	background-color:#A89F68;
 	color: white;
 
@@ -100,6 +100,7 @@ army green: 41521F;
 	margin-bottom: 10%;
 }
 
+/*seccion cuatro*/
 .cuatro{
 	background-image: url(../img/all.jpg);
 	height: 100vh;
